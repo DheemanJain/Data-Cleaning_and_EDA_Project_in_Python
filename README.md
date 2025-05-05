@@ -1,2 +1,17 @@
-# Data-Cleaning_and_EDA_Project_in_Python
-A Jupyter Notebook demonstrating data cleaning techniques in Python using the Pandas library, applied to a real-world dataset.
+# 🐼 Data Cleaning with Pandas
+
+This notebook demonstrates Python-based data cleaning techniques using the Pandas library on real-world messy datasets.
+
+## 🧹 Key Operations
+- 🔍 Handling nulls and duplicates
+- 🏷️ Renaming and reformatting columns
+- 🔄 Type conversions and standardization
+- 📌 Basic data quality checks
+
+## 🛠️ Tools Used
+- Python 🐍
+- Pandas
+- Jupyter Notebook
+
+## 📁 File
+> https://drive.google.com/file/d/1vz1cWNvn0dh9CRztOdUL_6GZobwU6jMw/view?usp=sharing
