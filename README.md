@@ -15,3 +15,4 @@ This notebook demonstrates Python-based data cleaning techniques using the Panda
 
 ## 📁 File
 > https://drive.google.com/file/d/1vz1cWNvn0dh9CRztOdUL_6GZobwU6jMw/view?usp=sharing
+> https://drive.google.com/file/d/1tp8kr8P5NKDKSG3KMJTo__eSlAgljWeL/view?usp=sharing
